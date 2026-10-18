@@ -1,0 +1,14 @@
+{
+  "name": "pagedrop",
+  "description": "Describe a website, get a live link: Claude builds it and publishes it to GitHub Pages",
+  "owner": {
+    "name": "ildargiv"
+  },
+  "plugins": [
+    {
+      "name": "pagedrop",
+      "source": "./plugins/pagedrop",
+      "description": "Builds a website from a description and publishes it to GitHub Pages, then verifies the live URL"
+    }
+  ]
+}
