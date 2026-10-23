@@ -2,6 +2,8 @@
 
 # PageDrop
 
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ildargiv/pagedrop/blob/main/LICENSE) [![Claude Code skill](https://img.shields.io/badge/Claude%20Code-skill-D97757)](https://claude.com/claude-code)
+
 ### Describe a site. Get a live link.
 
 A Claude Code skill: Claude builds your website, publishes it to GitHub Pages,<br>
